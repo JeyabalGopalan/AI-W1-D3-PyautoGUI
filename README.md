@@ -34,12 +34,35 @@ The user enters an Instagram profile URL in the terminal. The bot then:
                 │
         ┌───────┴────────┐
         ▼                ▼
-   Account Name        Posts
-   Followers           Following
-   Bio                 Link
+               START
+                │
+                ▼
+       Enter Instagram URL
+                │
+                ▼
+          Open Chrome
+                │
+                ▼
+       Select Chrome Account
+                │
+                ▼
+      Open Instagram Profile
+                │
+                ▼
+        Copy Profile Text
+                │
+                ▼
+       Extract Profile Data
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+     Account Name        Posts
+     Followers           Following
+     Bio                 Link
                 │
                 ▼
           Open Excel
+   
                 │
                 ▼
        Open Blank Workbook
