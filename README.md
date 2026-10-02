@@ -139,7 +139,7 @@ Chrome is used to access the Instagram profile.
 
 Library	Purpose
 
-pyautogui	-> Mouse and keyboard automation
-pyperclip	-> Clipboard copy and paste
-time	-> Add delays and wait for applications
-re	-> Extract specific information using patterns
+* pyautogui	-> Mouse and keyboard automation
+* pyperclip	-> Clipboard copy and paste
+* time	-> Add delays and wait for applications
+* re	-> Extract specific information using patterns
